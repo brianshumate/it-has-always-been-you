@@ -182,7 +182,7 @@ code {
 ------------------------------------------------------- */
 
 .content-node.cover .cover-image {
-  max-height: 400px;
+  max-height: 500px;
   overflow: hidden;
 }
 
